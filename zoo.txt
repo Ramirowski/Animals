@@ -1,3 +1,5 @@
 lion
 rhino
 elephant
+flamingo
+tiger
